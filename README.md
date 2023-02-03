@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on bulding my skills
+- 🔭 I’m currently working on react
 - 😄 Pronouns: her/she
 -->
 # 📊 GitHub Stats:
