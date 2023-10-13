@@ -36,7 +36,7 @@
 
 - :seedling: Exploring DL
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kirti-sikka-5098b1276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
